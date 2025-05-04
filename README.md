@@ -1,7 +1,7 @@
 # Theoretical-Modeling-essay
 
-      *The Problem:*
-
+       * The Problem *
+       
 Here is a general theoretical modeling test:
 
 _Problem:_ Imagine a complex system that must manage multiple types of entities, relationships, and processes. The system must be able to:
